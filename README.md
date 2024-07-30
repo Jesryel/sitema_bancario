@@ -1,1 +1,2 @@
-# sitema_bancario. este repositorio esta incompleto
+# sitema_bancario basico.
+este repositorio esta incompleto
